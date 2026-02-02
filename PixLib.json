@@ -103,5 +103,12 @@
         "ID":  "winrar",
         "Source":  "choco",
         "Desc":  "RAR Yoneticisi"
+    },
+    {
+        "Cat":  "PixLib (Favoriler)",
+        "Name":  "AnyDesk",
+        "ID":  "AnyDeskSoftwareGmbH.AnyDesk",
+        "Source":  "winget",
+        "Desc":  "Uzak masaustu"
     }
 ]
