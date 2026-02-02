@@ -110,5 +110,12 @@
         "ID":  "AnyDeskSoftwareGmbH.AnyDesk",
         "Source":  "winget",
         "Desc":  "Uzak masaustu"
+    },
+    {
+        "Cat":  "PixLib (Favoriler)",
+        "Name":  "SublimeHQ.SublimeText.4",
+        "ID":  "SublimeHQ.SublimeText.4",
+        "Source":  "winget",
+        "Desc":  "Winget Arama"
     }
 ]
