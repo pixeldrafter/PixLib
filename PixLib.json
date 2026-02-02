@@ -579,5 +579,12 @@
         "ID":  "VMware.WorkstationPro",
         "Source":  "winget",
         "Desc":  "Sanal makine"
+    },
+    {
+        "Cat":  "PixLib (Favoriler)",
+        "Name":  "Google Chrome",
+        "ID":  "Google.Chrome",
+        "Source":  "winget",
+        "Desc":  "En populer web tarayicisi"
     }
 ]
