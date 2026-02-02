@@ -89,5 +89,12 @@
         "ID":  "Spotify.Spotify",
         "Source":  "winget",
         "Desc":  "Muzik Servisi"
+    },
+    {
+        "Cat":  "PixLib (Favoriler)",
+        "Name":  "7-Zip",
+        "ID":  "7zip.7zip",
+        "Source":  "winget",
+        "Desc":  "Dosya arsivleyici"
     }
 ]
