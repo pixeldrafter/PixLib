@@ -586,5 +586,12 @@
         "ID":  "Google.Chrome",
         "Source":  "winget",
         "Desc":  "En populer web tarayicisi"
+    },
+    {
+        "Cat":  "PixLib (Favoriler)",
+        "Name":  "AnyDesk",
+        "ID":  "AnyDeskSoftwareGmbH.AnyDesk",
+        "Source":  "winget",
+        "Desc":  "Uzak masaustu"
     }
 ]
