@@ -96,5 +96,12 @@
         "ID":  "Google.Chrome",
         "Source":  "winget",
         "Desc":  "En populer web tarayicisi"
+    },
+    {
+        "Cat":  "PixLib (Favoriler)",
+        "Name":  "WinRAR",
+        "ID":  "winrar",
+        "Source":  "choco",
+        "Desc":  "RAR Yoneticisi"
     }
 ]
