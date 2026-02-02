@@ -1,5 +1,55 @@
 [
     {
+        "content":  {
+                        "name":  "PixLib.json",
+                        "path":  "PixLib.json",
+                        "sha":  "0831613d72e783e5a22772c05a09222ff846fb5d",
+                        "size":  8157,
+                        "url":  "https://api.github.com/repos/pixeldrafter/PixLib/contents/PixLib.json?ref=main",
+                        "html_url":  "https://github.com/pixeldrafter/PixLib/blob/main/PixLib.json",
+                        "git_url":  "https://api.github.com/repos/pixeldrafter/PixLib/git/blobs/0831613d72e783e5a22772c05a09222ff846fb5d",
+                        "download_url":  "https://raw.githubusercontent.com/pixeldrafter/PixLib/main/PixLib.json",
+                        "type":  "file",
+                        "_links":  {
+                                       "self":  "https://api.github.com/repos/pixeldrafter/PixLib/contents/PixLib.json?ref=main",
+                                       "git":  "https://api.github.com/repos/pixeldrafter/PixLib/git/blobs/0831613d72e783e5a22772c05a09222ff846fb5d",
+                                       "html":  "https://github.com/pixeldrafter/PixLib/blob/main/PixLib.json"
+                                   }
+                    },
+        "commit":  {
+                       "sha":  "51ee2fa76e3b35397ef4343cae7da1baa25285e8",
+                       "node_id":  "C_kwDORG1ZfNoAKDUxZWUyZmE3NmUzYjM1Mzk3ZWY0MzQzY2FlN2RhMWJhYTI1Mjg1ZTg",
+                       "url":  "https://api.github.com/repos/pixeldrafter/PixLib/git/commits/51ee2fa76e3b35397ef4343cae7da1baa25285e8",
+                       "html_url":  "https://github.com/pixeldrafter/PixLib/commit/51ee2fa76e3b35397ef4343cae7da1baa25285e8",
+                       "author":  {
+                                      "name":  "pixeldrafter",
+                                      "email":  "pixeldrafter@gmail.com",
+                                      "date":  "2026-02-02T14:21:56Z"
+                                  },
+                       "committer":  {
+                                         "name":  "pixeldrafter",
+                                         "email":  "pixeldrafter@gmail.com",
+                                         "date":  "2026-02-02T14:21:56Z"
+                                     },
+                       "tree":  {
+                                    "sha":  "ab7d0f95c6e0ab1073bc477f9e6d2b7f544b1d71",
+                                    "url":  "https://api.github.com/repos/pixeldrafter/PixLib/git/trees/ab7d0f95c6e0ab1073bc477f9e6d2b7f544b1d71"
+                                },
+                       "message":  "PixSoft Sync",
+                       "parents":  [
+                                       "@{sha=0a509d0d67f45e513ea5228e6e18d2fc09c13114; url=https://api.github.com/repos/pixeldrafter/PixLib/git/commits/0a509d0d67f45e513ea5228e6e18d2fc09c13114; html_url=https://github.com/pixeldrafter/PixLib/commit/0a509d0d67f45e513ea5228e6e18d2fc09c13114}"
+                                   ],
+                       "verification":  {
+                                            "verified":  false,
+                                            "reason":  "unsigned",
+                                            "signature":  null,
+                                            "payload":  null,
+                                            "verified_at":  null
+                                        }
+                   }
+    },
+    true,
+    {
         "Cat":  "Tarayici",
         "Name":  "Google Chrome",
         "ID":  "Google.Chrome",
@@ -320,5 +370,12 @@
         "ID":  "Microsoft.VCRedist.2015+.x64",
         "Source":  "winget",
         "Desc":  "Visual C++"
+    },
+    {
+        "Cat":  "PixLib (Favoriler)",
+        "Name":  "Google Chrome",
+        "ID":  "Google.Chrome",
+        "Source":  "winget",
+        "Desc":  "En populer web tarayicisi"
     }
 ]
