@@ -1,1 +1,583 @@
-
+[
+    {
+        "Cat":  "Tarayici",
+        "Name":  "Google Chrome",
+        "ID":  "Google.Chrome",
+        "Source":  "winget",
+        "Desc":  "En populer web tarayicisi"
+    },
+    {
+        "Cat":  "Tarayici",
+        "Name":  "Mozilla Firefox",
+        "ID":  "Mozilla.Firefox",
+        "Source":  "winget",
+        "Desc":  "Gizlilik odakli tarayici"
+    },
+    {
+        "Cat":  "Tarayici",
+        "Name":  "Brave",
+        "ID":  "Brave.Brave",
+        "Source":  "winget",
+        "Desc":  "Reklam engelleyici gomulu"
+    },
+    {
+        "Cat":  "Tarayici",
+        "Name":  "Microsoft Edge",
+        "ID":  "Microsoft.Edge",
+        "Source":  "winget",
+        "Desc":  "Hizli ve modern tarayici"
+    },
+    {
+        "Cat":  "Tarayici",
+        "Name":  "Opera",
+        "ID":  "Opera.Opera",
+        "Source":  "winget",
+        "Desc":  "VPN gomulu tarayici"
+    },
+    {
+        "Cat":  "Tarayici",
+        "Name":  "Opera GX",
+        "ID":  "Opera.OperaGX",
+        "Source":  "winget",
+        "Desc":  "Oyuncular icin tarayici"
+    },
+    {
+        "Cat":  "Tarayici",
+        "Name":  "Vivaldi",
+        "ID":  "Vivaldi.Vivaldi",
+        "Source":  "winget",
+        "Desc":  "Ozellestirilebilir tarayici"
+    },
+    {
+        "Cat":  "Tarayici",
+        "Name":  "Tor Browser",
+        "ID":  "TorProject.TorBrowser",
+        "Source":  "winget",
+        "Desc":  "Anonim tarayici"
+    },
+    {
+        "Cat":  "Tarayici",
+        "Name":  "LibreWolf",
+        "ID":  "LibreWolf.LibreWolf",
+        "Source":  "winget",
+        "Desc":  "Firefox\u0027un gizlilik odakli hali"
+    },
+    {
+        "Cat":  "Tarayici",
+        "Name":  "Waterfox",
+        "ID":  "Waterfox.Waterfox",
+        "Source":  "winget",
+        "Desc":  "Hizli Firefox catali"
+    },
+    {
+        "Cat":  "Iletisim",
+        "Name":  "Discord",
+        "ID":  "Discord.Discord",
+        "Source":  "winget",
+        "Desc":  "Sohbet uygulamasi"
+    },
+    {
+        "Cat":  "Iletisim",
+        "Name":  "WhatsApp",
+        "ID":  "WhatsApp.WhatsApp",
+        "Source":  "winget",
+        "Desc":  "Mesajlasma"
+    },
+    {
+        "Cat":  "Iletisim",
+        "Name":  "Telegram",
+        "ID":  "Telegram.TelegramDesktop",
+        "Source":  "winget",
+        "Desc":  "Guvenli mesajlasma"
+    },
+    {
+        "Cat":  "Iletisim",
+        "Name":  "Signal",
+        "ID":  "Signal.Signal",
+        "Source":  "winget",
+        "Desc":  "Sifreli mesajlasma"
+    },
+    {
+        "Cat":  "Iletisim",
+        "Name":  "Zoom",
+        "ID":  "Zoom.Zoom",
+        "Source":  "winget",
+        "Desc":  "Video konferans"
+    },
+    {
+        "Cat":  "Iletisim",
+        "Name":  "Microsoft Teams",
+        "ID":  "Microsoft.Teams",
+        "Source":  "winget",
+        "Desc":  "Is birligi platformu"
+    },
+    {
+        "Cat":  "Iletisim",
+        "Name":  "Skype",
+        "ID":  "Microsoft.Skype",
+        "Source":  "winget",
+        "Desc":  "Goruntulu gorusme"
+    },
+    {
+        "Cat":  "Iletisim",
+        "Name":  "Slack",
+        "ID":  "SlackTechnologies.Slack",
+        "Source":  "winget",
+        "Desc":  "Is sohbeti"
+    },
+    {
+        "Cat":  "Iletisim",
+        "Name":  "Thunderbird",
+        "ID":  "Mozilla.Thunderbird",
+        "Source":  "winget",
+        "Desc":  "E-posta istemcisi"
+    },
+    {
+        "Cat":  "Araclar",
+        "Name":  "7-Zip",
+        "ID":  "7zip.7zip",
+        "Source":  "winget",
+        "Desc":  "Dosya arsivleyici"
+    },
+    {
+        "Cat":  "Araclar",
+        "Name":  "WinRAR",
+        "ID":  "winrar",
+        "Source":  "choco",
+        "Desc":  "RAR yoneticisi"
+    },
+    {
+        "Cat":  "Araclar",
+        "Name":  "PeaZip",
+        "ID":  "PeaZip.PeaZip",
+        "Source":  "winget",
+        "Desc":  "Acik kaynak arsivci"
+    },
+    {
+        "Cat":  "Araclar",
+        "Name":  "AnyDesk",
+        "ID":  "AnyDeskSoftwareGmbH.AnyDesk",
+        "Source":  "winget",
+        "Desc":  "Uzak masaustu"
+    },
+    {
+        "Cat":  "Araclar",
+        "Name":  "TeamViewer",
+        "ID":  "TeamViewer.TeamViewer",
+        "Source":  "winget",
+        "Desc":  "Uzak masaustu"
+    },
+    {
+        "Cat":  "Araclar",
+        "Name":  "PowerToys",
+        "ID":  "Microsoft.PowerToys",
+        "Source":  "winget",
+        "Desc":  "Windows araclari"
+    },
+    {
+        "Cat":  "Araclar",
+        "Name":  "Everything",
+        "ID":  "voidtools.Everything",
+        "Source":  "winget",
+        "Desc":  "Hizli dosya arama"
+    },
+    {
+        "Cat":  "Araclar",
+        "Name":  "WizTree",
+        "ID":  "AntibodySoftware.WizTree",
+        "Source":  "winget",
+        "Desc":  "Disk kullanim analizi"
+    },
+    {
+        "Cat":  "Araclar",
+        "Name":  "Rufus",
+        "ID":  "Rufus.Rufus",
+        "Source":  "winget",
+        "Desc":  "USB boot hazirlama"
+    },
+    {
+        "Cat":  "Araclar",
+        "Name":  "BleachBit",
+        "ID":  "BleachBit.BleachBit",
+        "Source":  "winget",
+        "Desc":  "Sistem temizleyici"
+    },
+    {
+        "Cat":  "Araclar",
+        "Name":  "CPU-Z",
+        "ID":  "CPUID.CPU-Z",
+        "Source":  "winget",
+        "Desc":  "Donanim bilgisi"
+    },
+    {
+        "Cat":  "Araclar",
+        "Name":  "GPU-Z",
+        "ID":  "TechPowerUp.GPU-Z",
+        "Source":  "winget",
+        "Desc":  "Ekran karti bilgisi"
+    },
+    {
+        "Cat":  "Araclar",
+        "Name":  "HWMonitor",
+        "ID":  "CPUID.HWMonitor",
+        "Source":  "winget",
+        "Desc":  "Sicaklik izleme"
+    },
+    {
+        "Cat":  "Araclar",
+        "Name":  "Process Hacker",
+        "ID":  "ProcessHacker.ProcessHacker",
+        "Source":  "winget",
+        "Desc":  "Gorev yoneticisi alternatifi"
+    },
+    {
+        "Cat":  "Araclar",
+        "Name":  "ShareX",
+        "ID":  "ShareX.ShareX",
+        "Source":  "winget",
+        "Desc":  "Ekran goruntusu araci"
+    },
+    {
+        "Cat":  "Araclar",
+        "Name":  "Flameshot",
+        "ID":  "Flameshot.Flameshot",
+        "Source":  "winget",
+        "Desc":  "Ekran alintisi araci"
+    },
+    {
+        "Cat":  "Gelistirme",
+        "Name":  "VS Code",
+        "ID":  "Microsoft.VisualStudioCode",
+        "Source":  "winget",
+        "Desc":  "Kod editoru"
+    },
+    {
+        "Cat":  "Gelistirme",
+        "Name":  "Visual Studio 2022",
+        "ID":  "Microsoft.VisualStudio.2022.Community",
+        "Source":  "winget",
+        "Desc":  "IDE"
+    },
+    {
+        "Cat":  "Gelistirme",
+        "Name":  "Notepad++",
+        "ID":  "Notepad++.Notepad++",
+        "Source":  "winget",
+        "Desc":  "Metin editoru"
+    },
+    {
+        "Cat":  "Gelistirme",
+        "Name":  "Sublime Text",
+        "ID":  "SublimeHQ.SublimeText.4",
+        "Source":  "winget",
+        "Desc":  "Hizli editor"
+    },
+    {
+        "Cat":  "Gelistirme",
+        "Name":  "Git",
+        "ID":  "Git.Git",
+        "Source":  "winget",
+        "Desc":  "Versiyon kontrol"
+    },
+    {
+        "Cat":  "Gelistirme",
+        "Name":  "GitHub Desktop",
+        "ID":  "GitHub.GitHubDesktop",
+        "Source":  "winget",
+        "Desc":  "Git arayuzu"
+    },
+    {
+        "Cat":  "Gelistirme",
+        "Name":  "Python 3.12",
+        "ID":  "Python.Python.3.12",
+        "Source":  "winget",
+        "Desc":  "Programlama dili"
+    },
+    {
+        "Cat":  "Gelistirme",
+        "Name":  "NodeJS LTS",
+        "ID":  "OpenJS.NodeJS.LTS",
+        "Source":  "winget",
+        "Desc":  "JS Runtime"
+    },
+    {
+        "Cat":  "Gelistirme",
+        "Name":  "GoLang",
+        "ID":  "GoLang.Go",
+        "Source":  "winget",
+        "Desc":  "Go programlama dili"
+    },
+    {
+        "Cat":  "Gelistirme",
+        "Name":  "Rust",
+        "ID":  "Rustlang.Rustup",
+        "Source":  "winget",
+        "Desc":  "Rust dili"
+    },
+    {
+        "Cat":  "Gelistirme",
+        "Name":  "Docker",
+        "ID":  "Docker.DockerDesktop",
+        "Source":  "winget",
+        "Desc":  "Konteyner"
+    },
+    {
+        "Cat":  "Gelistirme",
+        "Name":  "PuTTY",
+        "ID":  "PuTTY.PuTTY",
+        "Source":  "winget",
+        "Desc":  "SSH istemcisi"
+    },
+    {
+        "Cat":  "Gelistirme",
+        "Name":  "WinSCP",
+        "ID":  "WinSCP.WinSCP",
+        "Source":  "winget",
+        "Desc":  "SFTP istemcisi"
+    },
+    {
+        "Cat":  "Gelistirme",
+        "Name":  "FileZilla",
+        "ID":  "FileZilla.FileZilla",
+        "Source":  "winget",
+        "Desc":  "FTP istemcisi"
+    },
+    {
+        "Cat":  "Gelistirme",
+        "Name":  "Postman",
+        "ID":  "Postman.Postman",
+        "Source":  "winget",
+        "Desc":  "API test"
+    },
+    {
+        "Cat":  "Gelistirme",
+        "Name":  "Wireshark",
+        "ID":  "WiresharkFoundation.Wireshark",
+        "Source":  "winget",
+        "Desc":  "Ag analizoru"
+    },
+    {
+        "Cat":  "Oyun/Medya",
+        "Name":  "Steam",
+        "ID":  "Valve.Steam",
+        "Source":  "winget",
+        "Desc":  "Oyun magazasi"
+    },
+    {
+        "Cat":  "Oyun/Medya",
+        "Name":  "Epic Games",
+        "ID":  "EpicGames.EpicGamesLauncher",
+        "Source":  "winget",
+        "Desc":  "Oyun magazasi"
+    },
+    {
+        "Cat":  "Oyun/Medya",
+        "Name":  "Ubisoft Connect",
+        "ID":  "Ubisoft.Connect",
+        "Source":  "winget",
+        "Desc":  "Ubisoft oyunlari"
+    },
+    {
+        "Cat":  "Oyun/Medya",
+        "Name":  "EA App",
+        "ID":  "ElectronicArts.EADesktop",
+        "Source":  "winget",
+        "Desc":  "EA oyunlari"
+    },
+    {
+        "Cat":  "Oyun/Medya",
+        "Name":  "GOG Galaxy",
+        "ID":  "GOG.Galaxy",
+        "Source":  "winget",
+        "Desc":  "DRM-free oyunlar"
+    },
+    {
+        "Cat":  "Oyun/Medya",
+        "Name":  "VLC",
+        "ID":  "VideoLAN.VLC",
+        "Source":  "winget",
+        "Desc":  "Medya oynatici"
+    },
+    {
+        "Cat":  "Oyun/Medya",
+        "Name":  "PotPlayer",
+        "ID":  "Daum.PotPlayer",
+        "Source":  "winget",
+        "Desc":  "Gelismis oynatici"
+    },
+    {
+        "Cat":  "Oyun/Medya",
+        "Name":  "Spotify",
+        "ID":  "Spotify.Spotify",
+        "Source":  "winget",
+        "Desc":  "Muzik"
+    },
+    {
+        "Cat":  "Oyun/Medya",
+        "Name":  "OBS Studio",
+        "ID":  "OBSProject.OBSStudio",
+        "Source":  "winget",
+        "Desc":  "Yayin araci"
+    },
+    {
+        "Cat":  "Oyun/Medya",
+        "Name":  "GIMP",
+        "ID":  "GIMP.GIMP",
+        "Source":  "winget",
+        "Desc":  "Resim editoru"
+    },
+    {
+        "Cat":  "Oyun/Medya",
+        "Name":  "Paint.NET",
+        "ID":  "dotPDN.PaintDotNet",
+        "Source":  "winget",
+        "Desc":  "Hafif resim editoru"
+    },
+    {
+        "Cat":  "Oyun/Medya",
+        "Name":  "Inkscape",
+        "ID":  "Inkscape.Inkscape",
+        "Source":  "winget",
+        "Desc":  "Vektor cizim"
+    },
+    {
+        "Cat":  "Oyun/Medya",
+        "Name":  "Blender",
+        "ID":  "BlenderFoundation.Blender",
+        "Source":  "winget",
+        "Desc":  "3D modelleme"
+    },
+    {
+        "Cat":  "Oyun/Medya",
+        "Name":  "Audacity",
+        "ID":  "Audacity.Audacity",
+        "Source":  "winget",
+        "Desc":  "Ses editoru"
+    },
+    {
+        "Cat":  "Oyun/Medya",
+        "Name":  "HandBrake",
+        "ID":  "HandBrake.HandBrake",
+        "Source":  "winget",
+        "Desc":  "Video donusturucu"
+    },
+    {
+        "Cat":  "Oyun/Medya",
+        "Name":  "K-Lite Codec",
+        "ID":  "CodecGuide.K-LiteCodecPack.Full",
+        "Source":  "winget",
+        "Desc":  "Video codec paketi"
+    },
+    {
+        "Cat":  "Ofis",
+        "Name":  "LibreOffice",
+        "ID":  "LibreOffice.LibreOffice",
+        "Source":  "winget",
+        "Desc":  "Ucretsiz Ofis"
+    },
+    {
+        "Cat":  "Ofis",
+        "Name":  "OpenOffice",
+        "ID":  "Apache.OpenOffice",
+        "Source":  "winget",
+        "Desc":  "Ofis paketi"
+    },
+    {
+        "Cat":  "Ofis",
+        "Name":  "Adobe Reader",
+        "ID":  "Adobe.Acrobat.Reader.64-bit",
+        "Source":  "winget",
+        "Desc":  "PDF okuyucu"
+    },
+    {
+        "Cat":  "Ofis",
+        "Name":  "Foxit Reader",
+        "ID":  "Foxit.FoxitReader",
+        "Source":  "winget",
+        "Desc":  "Hafif PDF"
+    },
+    {
+        "Cat":  "Ofis",
+        "Name":  "SumatraPDF",
+        "ID":  "SumatraPDF.SumatraPDF",
+        "Source":  "winget",
+        "Desc":  "Cok hafif PDF"
+    },
+    {
+        "Cat":  "Ofis",
+        "Name":  "Obsidian",
+        "ID":  "Obsidian.Obsidian",
+        "Source":  "winget",
+        "Desc":  "Not alma"
+    },
+    {
+        "Cat":  "Ofis",
+        "Name":  "Notion",
+        "ID":  "Notion.Notion",
+        "Source":  "winget",
+        "Desc":  "Not ve planlama"
+    },
+    {
+        "Cat":  "Sistem",
+        "Name":  ".NET 6",
+        "ID":  "Microsoft.DotNet.DesktopRuntime.6",
+        "Source":  "winget",
+        "Desc":  "Runtime"
+    },
+    {
+        "Cat":  "Sistem",
+        "Name":  ".NET 7",
+        "ID":  "Microsoft.DotNet.DesktopRuntime.7",
+        "Source":  "winget",
+        "Desc":  "Runtime"
+    },
+    {
+        "Cat":  "Sistem",
+        "Name":  ".NET 8",
+        "ID":  "Microsoft.DotNet.DesktopRuntime.8",
+        "Source":  "winget",
+        "Desc":  "Runtime"
+    },
+    {
+        "Cat":  "Sistem",
+        "Name":  "Java JRE",
+        "ID":  "Oracle.JavaRuntimeEnvironment",
+        "Source":  "winget",
+        "Desc":  "Java"
+    },
+    {
+        "Cat":  "Sistem",
+        "Name":  "DirectX",
+        "ID":  "Microsoft.DirectX",
+        "Source":  "winget",
+        "Desc":  "Oyun kutuphanesi"
+    },
+    {
+        "Cat":  "Sistem",
+        "Name":  "VC++ AIO",
+        "ID":  "Microsoft.VCRedist.2015+.x64",
+        "Source":  "winget",
+        "Desc":  "Visual C++"
+    },
+    {
+        "Cat":  "Sistem",
+        "Name":  "OpenJDK 17",
+        "ID":  "EclipseAdoptium.Temurin.17.JRE",
+        "Source":  "winget",
+        "Desc":  "Acik Kaynak Java"
+    },
+    {
+        "Cat":  "Sistem",
+        "Name":  "VirtualBox",
+        "ID":  "Oracle.VirtualBox",
+        "Source":  "winget",
+        "Desc":  "Sanal makine"
+    },
+    {
+        "Cat":  "Sistem",
+        "Name":  "VMware Workstation",
+        "ID":  "VMware.WorkstationPro",
+        "Source":  "winget",
+        "Desc":  "Sanal makine"
+    }
+]
