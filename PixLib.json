@@ -600,5 +600,12 @@
         "ID":  "7zip.7zip",
         "Source":  "winget",
         "Desc":  "Dosya arsivleyici"
+    },
+    {
+        "Cat":  "PixLib (Favoriler)",
+        "Name":  "VideoLAN.VLC",
+        "ID":  "VideoLAN.VLC",
+        "Source":  "winget",
+        "Desc":  "Winget Arama"
     }
 ]
