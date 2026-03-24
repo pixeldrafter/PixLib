@@ -1,11 +1,6 @@
 {
-  "metadata": {
-    "version": "9.0.0",
-    "lastUpdate": "2025-01-15 15:00:00",
-    "author": "Omer Cataloglu"
-  },
   "packages": [
-    {"name": "Google Chrome", "id": "Google.Chrome", "category": "Tarayicilar", "description": "Web tarayicisi"},
-    {"name": "Visual Studio Code", "id": "Microsoft.VisualStudioCode", "category": "Gelistirme", "description": "Kod editoru"}
+    {"name": "Google Chrome", "id": "Google.Chrome", "category": "Tarayicilar"},
+    {"name": "Visual Studio Code", "id": "Microsoft.VisualStudioCode", "category": "Gelistirme"}
   ]
 }
